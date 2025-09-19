@@ -7,7 +7,7 @@ on:
 
 env:
   BUILD_ID: ${{ github.run_number }}
-  DOCKER_REPO: DNyang1/githubaction-test
+  DOCKER_REPO: dnyang/githubaction-test
   AWS_HOST: 13.124.48.50
 
 jobs:
